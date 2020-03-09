@@ -96,7 +96,7 @@ export default function Search(props) {
         </form>
       </Jumbotron>
 
-      { <p>{JSON.stringify(searchuserR)}</p> }
+      {/*{ <p>{JSON.stringify(searchuserR)}</p> }*/}
 
       { (searchuserR) ? (
         <Jumbotron className="searchResult">
