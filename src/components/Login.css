@@ -1,0 +1,14 @@
+.login.jumbotron {
+    background-color: #ec8722;
+    padding-top: 2rem;
+}
+
+.login form input[type="text"], input[type="password"], textarea {
+    background-color : #fafec0;
+    color: #000;
+    font-weight: bold;
+}
+
+.header {
+    color: #333333;
+}
